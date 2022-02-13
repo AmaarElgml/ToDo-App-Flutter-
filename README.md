@@ -3,9 +3,9 @@
 Task management app to help you stay organized and manage your day-to-day. (Using:  Dart, BLoC, sqfLite, and Three-tier architecture pattern).
 
 
-![Tasks App 1](https://user-images.githubusercontent.com/62309234/153771098-d2e126b4-3ad6-4509-ae8e-f5757dfb8d52.png =250x250)
+![Tasks App 1](https://user-images.githubusercontent.com/62309234/153771098-d2e126b4-3ad6-4509-ae8e-f5757dfb8d52.png  | width=200)
 
-![Tasks App 2](https://user-images.githubusercontent.com/62309234/153771099-fcf9b4eb-4a9e-44fa-9c59-29f3a731a886.png =250x250)
+![Tasks App 2](https://user-images.githubusercontent.com/62309234/153771099-fcf9b4eb-4a9e-44fa-9c59-29f3a731a886.png  | width=200)
 
 ## Getting Started
 
