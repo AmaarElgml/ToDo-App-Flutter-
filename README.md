@@ -7,7 +7,6 @@ Task management app to help you stay organized and manage your day-to-day. (Usin
 
 ![Tasks App 2](https://user-images.githubusercontent.com/62309234/153771099-fcf9b4eb-4a9e-44fa-9c59-29f3a731a886.png)
 
-## Getting Started
 
 # Three-tier architecture 
 Three-tier architecture is one of the mainly used architecture for developing applications. This architecture is also known as N-tier architecture or multi architecture.
