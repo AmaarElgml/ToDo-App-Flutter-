@@ -4,19 +4,19 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
-  circular_check_box: ^1.0.4
-  flutter_slidable: ^0.5.7
-  sqflite: ^2.0.0+3
+  cupertino_icons: ^1.0.4
+  flutter_slidable: ^1.2.0
+  sqflite: ^2.0.2
   intl: ^0.17.0
-  bloc: ^7.0.0
-  flutter_bloc: ^7.0.0
+  flutter_bloc: ^8.0.1
+  bloc: ^8.0.2
+
 
 dev_dependencies:
   flutter_test:
@@ -27,9 +27,9 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/
+    - assets/images/
 
   fonts:
     - family: FredokaOne
       fonts:
-        - asset: fonts/FredokaOne-Regular.ttf
+        - asset: assets/fonts/FredokaOne-Regular.ttf
